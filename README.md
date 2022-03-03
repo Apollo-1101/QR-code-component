@@ -9,6 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Links
 
 - Solution URL: [github.com](https://github.com/Apollo-1101/QR-code-component/blob/main/index.html)
+- Live Site URL: [github.com](https://apollo-1101.github.io/QR-code-component/)
 
 ## Built with
 
